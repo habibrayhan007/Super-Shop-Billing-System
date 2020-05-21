@@ -1,0 +1,6 @@
+burger,101,450
+pizza,102,800
+chesse,103,200
+momo,104,500
+ramen,105,650
+juice,106,200
